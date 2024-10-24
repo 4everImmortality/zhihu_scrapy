@@ -36,30 +36,57 @@
 
 
 ├── DataAnalysis
+
 │   ├── __init__.py
+
 │   ├── genWordCloud_PersonalInfo.py
+
 │   ├── genWordCloud_Content.py
+
 │   ├── plot.py
+
 │   ├── baidu_stopwords.txt
+
 │   ├── pie.png
+
 │   ├── wordcloud_Content.png
+
 │   ├── wordcloud_PersonalInfo.png
+
 ├── sql
+
 │   ├── MySql.sql
+
 ├── zhihu
+
 ├── spiders
+
     │   ├── __init__.py
+    
     │   └── zhihuSpider.py
+    
     ├── __init__.py
+    
     ├── dbtools.py
+    
     ├── items.py
+    
     ├── middlewares.py
+    
     ├── pipelines.py
+    
     ├── pipelines2mysql.py
+    
     ├── settings.py
+    
     ├── user-agent.py
+    
 ├── scrapy.cfg
+
 ├── chromedriver.exe
+
 ├── requirements.txt
+
 ├── readme.md
+
 ├── main.py
